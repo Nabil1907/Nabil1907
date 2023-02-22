@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working on [Gitea Project](https://gitea.io/en-us/)
+- 🔭  I’m currently working in [Atomica](https://atomica.ai/)
 - 🌱 I’m currently learning more about DevOps, Cloud Infrastructure and Microservice 
-- 👯 I’m looking to collaborate on projects that focus on Golang
+- 👯 I’m looking to collaborate on projects that focus on Node js, C#, .net core, Spring boot, React js and Golang
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nabil-salman-851037164/)
 
 <!--
