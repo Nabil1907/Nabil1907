@@ -14,7 +14,7 @@
 
 <!-- Add more sections as per your preference -->
 
-<!-- ### My Skills:
+ ### My Skills:
 - Golang
 - Node.js
 - C#
